@@ -82,8 +82,10 @@ cd cypress/integration && touch login.example.spec.js cart.spec.js create.accoun
 
 **Source Code**
 
-1. `challenge/cypress/integration/login.example.spec.js`.
-
+<details>
+<summary>1. `challenge/cypress/integration/login.example.spec.js` .</summary>
+<br>
+    
 ```
 //File : challenge/cypress/integration/login.example.spec.js
 
@@ -164,9 +166,12 @@ describe('Logging In/Logout testing', function(){
 })
 
 ```
+</details>
 
 
-2. `challenge/cypress/integration/cart.spec.js`.
+<details>
+<summary>2. `challenge/cypress/integration/cart.spec.js`.</summary>
+<br>
 
 ```
 //File: challenge/cypress/integration/cart.spec.js
@@ -239,8 +244,13 @@ describe('Testing Frontoffice', function(){
 })
 
 ```
+</details>
 
-3. `challenge/cypress/integration/create.account.example.specs.js`.
+
+<details>
+<summary>3. `challenge/cypress/integration/create.account.example.specs.js`.</summary>
+<br>
+
 
 ```
 //File: challenge/cypress/integration/create.account.example.specs.js
@@ -267,8 +277,11 @@ describe('Testing Frontoffice', function(){
     })
 })
 ```
+</details>
 
-4. `challenge/cypress/integration/contact.us.example.spec.js`.
+<details>
+<summary>4. `challenge/cypress/integration/contact.us.example.spec.js`.</summary>
+<br>
 
 ```
 //File: challenge/cypress/integration/contact.us.example.spec.js
@@ -296,6 +309,8 @@ describe('Testing Frontoffice', function(){
 
 })
 ```
+</details>
+
 
 ### Directions
 
