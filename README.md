@@ -80,7 +80,7 @@ dev-mentor@devmentor-PC-MK34LEZCBEAD:~/Downloads/login$ tree -I node_modules
 cd cypress/integration && touch login.example.spec.js cart.spec.js create.account.example.specs.js contact.us.example.spec.js
 ```
 
-**Source Code**
+### Source File(s)
 
 <details>
 <summary>1. `challenge/cypress/integration/login.example.spec.js` .</summary>
